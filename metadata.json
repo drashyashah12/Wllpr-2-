@@ -1,0 +1,6 @@
+{
+  "name": "wllpr",
+  "description": "Ultra-clean wallpaper application and studio with curated 4K/8K wallpapers, category filtering, and custom wallpaper creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
